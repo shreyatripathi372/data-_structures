@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreyatripathi372/data-_structures/tree/master/0001-two-sum) |
+| [1920-build-array-from-permutation](https://github.com/shreyatripathi372/data-_structures/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shreyatripathi372/data-_structures/tree/master/0069-sqrtx) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/shreyatripathi372/data-_structures/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
