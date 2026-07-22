@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreyatripathi372/data-_structures/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/shreyatripathi372/data-_structures/tree/master/0088-merge-sorted-array) |
 | [1920-build-array-from-permutation](https://github.com/shreyatripathi372/data-_structures/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/shreyatripathi372/data-_structures/tree/master/1920-build-array-from-permutation) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/shreyatripathi372/data-_structures/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/shreyatripathi372/data-_structures/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
