@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shreyatripathi372/data-_structures/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyatripathi372/data-_structures/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/shreyatripathi372/data-_structures/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/shreyatripathi372/data-_structures/tree/master/0283-move-zeroes) |
 | [1920-build-array-from-permutation](https://github.com/shreyatripathi372/data-_structures/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyatripathi372/data-_structures/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/shreyatripathi372/data-_structures/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/shreyatripathi372/data-_structures/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
