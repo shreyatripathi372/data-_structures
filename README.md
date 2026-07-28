@@ -53,4 +53,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shreyatripathi372/data-_structures/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## String
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/shreyatripathi372/data-_structures/tree/master/1221-split-a-string-in-balanced-strings) |
+## Greedy
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/shreyatripathi372/data-_structures/tree/master/1221-split-a-string-in-balanced-strings) |
+## Counting
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/shreyatripathi372/data-_structures/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
