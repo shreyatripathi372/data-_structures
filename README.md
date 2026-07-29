@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shreyatripathi372/data-_structures/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyatripathi372/data-_structures/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/shreyatripathi372/data-_structures/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/shreyatripathi372/data-_structures/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/shreyatripathi372/data-_structures/tree/master/0283-move-zeroes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shreyatripathi372/data-_structures/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/shreyatripathi372/data-_structures/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/shreyatripathi372/data-_structures/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
