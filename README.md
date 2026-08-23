@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/shreyatripathi372/data-_structures/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shreyatripathi372/data-_structures/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/shreyatripathi372/data-_structures/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/shreyatripathi372/data-_structures/tree/master/0326-power-of-three) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreyatripathi372/data-_structures/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shreyatripathi372/data-_structures/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shreyatripathi372/data-_structures/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shreyatripathi372/data-_structures/tree/master/0070-climbing-stairs) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/shreyatripathi372/data-_structures/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
