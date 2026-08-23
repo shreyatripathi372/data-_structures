@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shreyatripathi372/data-_structures/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/shreyatripathi372/data-_structures/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shreyatripathi372/data-_structures/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/shreyatripathi372/data-_structures/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shreyatripathi372/data-_structures/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shreyatripathi372/data-_structures/tree/master/0326-power-of-three) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreyatripathi372/data-_structures/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/shreyatripathi372/data-_structures/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shreyatripathi372/data-_structures/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -127,5 +129,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/shreyatripathi372/data-_structures/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shreyatripathi372/data-_structures/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
