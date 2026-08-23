@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shreyatripathi372/data-_structures/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shreyatripathi372/data-_structures/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shreyatripathi372/data-_structures/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/shreyatripathi372/data-_structures/tree/master/0342-power-of-four) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreyatripathi372/data-_structures/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shreyatripathi372/data-_structures/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shreyatripathi372/data-_structures/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/shreyatripathi372/data-_structures/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shreyatripathi372/data-_structures/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/shreyatripathi372/data-_structures/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -131,4 +133,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/shreyatripathi372/data-_structures/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shreyatripathi372/data-_structures/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/shreyatripathi372/data-_structures/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
