@@ -5,7 +5,6 @@ public:
         sort(nums.begin(), nums.end()); // Step 1: sort array
 
         for (int i = 0; i < nums.size(); i++) {
-            // Step 2: skip duplicate 'i'
             if (i > 0 && nums[i] == nums[i - 1])
                 continue;
 
@@ -18,7 +17,6 @@ public:
                 if (sum == 0) {
                     result.push_back({nums[i], nums[left], nums[right]});
 
-                    // Step 3: skip duplicate 'left' and 'right'
                     while (left < right && nums[left] == nums[left + 1])
                         left++;
                     while (left < right && nums[right] == nums[right - 1])
@@ -27,9 +25,9 @@ public:
                     left++;
                     right--;
                 } else if (sum < 0) {
-                    left++; // sum chhota hai → bada karna hai
+                    left++; 
                 } else {
-                    right--; // sum bada hai → chhota karna hai
+                    right--; 
                 }
             }
         }
