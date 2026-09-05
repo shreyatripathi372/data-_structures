@@ -32,7 +32,7 @@ public:
             }
         }
 
-        // Original array ko result se replace karo
+    
         chars = result;
 
         return result.size();
