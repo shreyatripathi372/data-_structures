@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/shreyatripathi372/data-_structures/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shreyatripathi372/data-_structures/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shreyatripathi372/data-_structures/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/shreyatripathi372/data-_structures/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/shreyatripathi372/data-_structures/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shreyatripathi372/data-_structures/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shreyatripathi372/data-_structures/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shreyatripathi372/data-_structures/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/shreyatripathi372/data-_structures/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shreyatripathi372/data-_structures/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/shreyatripathi372/data-_structures/tree/master/0560-subarray-sum-equals-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shreyatripathi372/data-_structures/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/shreyatripathi372/data-_structures/tree/master/3731-find-missing-elements) |
 ## Database
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shreyatripathi372/data-_structures/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/shreyatripathi372/data-_structures/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shreyatripathi372/data-_structures/tree/master/0240-search-a-2d-matrix-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shreyatripathi372/data-_structures/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
