@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shreyatripathi372/data-_structures/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shreyatripathi372/data-_structures/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shreyatripathi372/data-_structures/tree/master/0342-power-of-four) |
+| [0441-arranging-coins](https://github.com/shreyatripathi372/data-_structures/tree/master/0441-arranging-coins) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shreyatripathi372/data-_structures/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreyatripathi372/data-_structures/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shreyatripathi372/data-_structures/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/shreyatripathi372/data-_structures/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shreyatripathi372/data-_structures/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shreyatripathi372/data-_structures/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/shreyatripathi372/data-_structures/tree/master/0441-arranging-coins) |
 ## Simulation
 |  |
 | ------- |
