@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/shreyatripathi372/data-_structures/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shreyatripathi372/data-_structures/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/shreyatripathi372/data-_structures/tree/master/0441-arranging-coins) |
+| [1137-n-th-tribonacci-number](https://github.com/shreyatripathi372/data-_structures/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shreyatripathi372/data-_structures/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreyatripathi372/data-_structures/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shreyatripathi372/data-_structures/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -161,10 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/shreyatripathi372/data-_structures/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/shreyatripathi372/data-_structures/tree/master/0198-house-robber) |
+| [1137-n-th-tribonacci-number](https://github.com/shreyatripathi372/data-_structures/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shreyatripathi372/data-_structures/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/shreyatripathi372/data-_structures/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
